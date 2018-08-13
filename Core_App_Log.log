@@ -1,0 +1,7 @@
+2018-08-09 00:49:30.959 +05:30 [INF] Sending json values
+2018-08-09 00:49:31.027 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2018-08-09 00:53:32.843 +05:30 [INF] Sending json values
+2018-08-09 00:53:32.913 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2018-08-09 01:09:15.043 +05:30 [INF] Sending json values
+2018-08-09 01:09:15.112 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2018-08-09 01:13:19.786 +05:30 [INF] Executing HttpStatusCodeResult, setting HTTP status code 400

@@ -1,0 +1,14 @@
+C:\Data\Example\Dotnet_cli_2.1.302\bin\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.deps.json
+C:\Data\Example\Dotnet_cli_2.1.302\bin\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.runtimeconfig.json
+C:\Data\Example\Dotnet_cli_2.1.302\bin\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.runtimeconfig.dev.json
+C:\Data\Example\Dotnet_cli_2.1.302\bin\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.dll
+C:\Data\Example\Dotnet_cli_2.1.302\bin\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.pdb
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.csprojAssemblyReference.cache
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.csproj.CoreCompileInputs.cache
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.RazorAssemblyInfo.cache
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.RazorAssemblyInfo.cs
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.AssemblyInfoInputs.cache
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.AssemblyInfo.cs
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.RazorTargetAssemblyInfo.cache
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.dll
+C:\Data\Example\Dotnet_cli_2.1.302\obj\MCD\relese\netcoreapp2.1\Dotnet_cli_2.1.302.pdb
